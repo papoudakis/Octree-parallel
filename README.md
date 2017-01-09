@@ -29,11 +29,12 @@ make
 
 ### Plot for  compute_hash_codes:
 
-![hash_cube](https://cloud.githubusercontent.com/assets/9269275/21784133/01012ab0-d6c3-11e6-9dc3-b74cefa39003.png)
+
+<img src="https://cloud.githubusercontent.com/assets/9269275/21784133/01012ab0-d6c3-11e6-9dc3-b74cefa39003.png" width="1248">
 
 ### Plot for morton_encoding:
 
-![morton_cube](https://cloud.githubusercontent.com/assets/9269275/21784177/1ef59cd6-d6c3-11e6-8e3d-61e0b612cb07.png)
+<img src="https://cloud.githubusercontent.com/assets/9269275/21784177/1ef59cd6-d6c3-11e6-8e3d-61e0b612cb07.png" width="1248">
 
 ### Plot for radix_sort:
 
